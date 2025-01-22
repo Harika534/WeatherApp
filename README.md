@@ -26,7 +26,7 @@ A modern, responsive weather application built with React that provides real-tim
 
 1. Clone the repository 
 ```bash
-git clone https://github.com/Devarshi1312/Whether-App.git
+git clone https://github.com/Harika534/WeatherApp.git
 ```
 
 2. Install dependencies
